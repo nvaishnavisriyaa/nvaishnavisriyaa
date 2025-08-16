@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi Sriyaa N
-- 👀 I’m interested in building Machine Learning Models
-- 💞 I’m looking to collaborate on ML Projects
+- 👀 I’m interested in building AI Agents
+- 💞 I’m looking to collaborate on AI Projects
 - 📫 You can reach me on my gmail : vaishnavisriyaanarasimhadevara@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am good at ML 
