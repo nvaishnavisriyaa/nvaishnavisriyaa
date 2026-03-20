@@ -3,7 +3,7 @@
 - 💞 I’m looking to collaborate on AI Projects
 - 📫 You can reach me on my gmail : vaishnavisriyaanarasimhadevara@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am good at ML 
+- ⚡ Fun fact: I love building cool tech for solving real problems
 
 <!---
 nvaishnavisriyaa/nvaishnavisriyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
